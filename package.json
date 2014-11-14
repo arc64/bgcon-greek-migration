@@ -1,21 +1,21 @@
 {
-  "name": "resonate2014",
+  "name": "bgcon-greek-migration",
   "version": "0.0.0",
-  "description": "Digital Arts Circus",
+  "description": "Taxi to Berlin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jplusplus/resonate2014.git"
+    "url": "git://github.com/arc64/bgcon-greek-migration.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/jplusplus/resonate2014/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/jplusplus/resonate2014",
+  "homepage": "",
   "dependencies": {
     "coffee-script": "^1.7.1"
   }
