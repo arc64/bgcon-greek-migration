@@ -1,7 +1,7 @@
 {% block section %}
 
-    <div class="illustration full" data-src="{{ url_for("static", filename="images/imagefilename.jpg").replace('imagefilename', self.image()) }}" data-ratio="2.120890774">
-        <!-- https://www.flickr.com/photos/berlinergazette/15759120816/in/photostream/  Andi Weiland, cc by  -->
+    <div class="illustration full" data-src="{{ url_for("static", filename="images/katerina.jpg").replace('katerina', self.image()) }}" data-ratio="2.120890774">
+
         <div class="title">{% block title %}{% trans %}{% endtrans %}{% endblock %}</div>
     </div>
     <div class="article container" id="{% block id %}{% endblock %}">
