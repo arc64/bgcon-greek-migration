@@ -1,25 +1,15 @@
-Digital Arts Circus
+Taxi to Berlin
 ===================
 
-Resonate Festival, Belgrade, April 2014
+Berliner Gazette, Berlin, December 2014
 
+Our reportage is currently in english. But in the future...?
 
-![Resonate2014](static/images/main.JPG)
-
-## 
-They do not call themselves ‘artists’, but might be the future of art. We met the new-media art scene in Belgrade last week, at the Resonate festival.
-
-Our reportage in english, french and german.
-
-[http://resonate2014.jplusplus.org](http://resonate2014.jplusplus.org) EN  
-[http://resonate2014.jplusplus.org/fr.html](http://resonate2014.jplusplus.org/fr.html) FR  
-[http://resonate2014.jplusplus.org/de.html](http://resonate2014.jplusplus.org/de.html) DE  
-
-
-By [Anne-Lise Bouyer](https://twitter.com/annelisebouyer), [Sebastian Kraus](https://twitter.com/sm_kraus) et [Edouard Richard](https://twitter.com/vied12) for [Journalism++](http://jplusplus.org/)  
-CC-BY-SA Journalism++ SAS ⁞ Photos © Resonate.
+[berlinergazette.de/taxi-to-berlin/](berlinergazette.de/taxi-to-berlin/) EN
 
 Licence : GNU General Public License V3
+
+We have forked this project from https://github.com/jplusplus/resonate2014, please go see their project too.
 
 
 ## Installation
